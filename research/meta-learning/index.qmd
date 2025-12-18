@@ -1,5 +1,5 @@
 ---
-title: Meta-Learning and Robustness to Shifting Tasks
+title: Meta-Learning and Generalization Across Tasks
 alias: &ALIAS task-robustness
 image: featured.png
 listing:
