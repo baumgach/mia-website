@@ -1,5 +1,5 @@
 ---
-# title: 'Welcome to the Medical AI Lab: <span style="color:#757883">building safe and trustworthy AI for healthcare</span>'
+# title: 'Welcome to the Lucerne Medical AI Lab: <span style="color:#757883">building safe and trustworthy AI for healthcare</span>'
 # subtitle: "building safe and trustworthy AI for healthcare"
 page-layout: full
 ---
