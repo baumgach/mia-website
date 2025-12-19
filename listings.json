@@ -1,5 +1,13 @@
 [
   {
+    "listing": "/teaching/index.html",
+    "items": [
+      "/teaching/HS251113-intro2python/index.html",
+      "/teaching/HS241684-intro2python/index.html",
+      "/teaching/FS241638-intro2ML/index.html"
+    ]
+  },
+  {
     "listing": "/research/uncertainty/index.html",
     "items": [
       "/publications/2025_079_Jan Nikolas Morshuis_segmentation_guided_mri/index.html",

@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "HS251113 Introduction to Python for Health Sciences\n\n\n\n\n\nHS25\n\n\n\n\n\n\n\nHS251684 Introduction to Python for Health Sciences\n\n\n\n\n\nHS24\n\n\n\n\n\n\n\nFS241638 Introduction to Machine Learning for Health Science\n\n\n\n\n\nFS24\n\n\n\n\n\nNo matching items\n Back to top"
+  },
+  {
+    "objectID": "teaching/HS241684-intro2python/index.html#semester",
+    "href": "teaching/HS241684-intro2python/index.html#semester",
+    "title": "HS251684 Introduction to Python for Health Sciences",
+    "section": "Semester",
+    "text": "Semester\nHS24"
+  },
+  {
+    "objectID": "teaching/HS241684-intro2python/index.html#description",
+    "href": "teaching/HS241684-intro2python/index.html#description",
+    "title": "HS251684 Introduction to Python for Health Sciences",
+    "section": "Description",
+    "text": "Description\nPython is a crucial programming language in the fields of data analysis and machine learning. It is an essential tool for anyone aspiring to work with cutting-edge machine learning and data science technologies. In this course, students will learn to: - Set up Python on their personal computers. - Understand and use basic control structures and data types in Python. - Utilize key Python libraries for data analysis and visualization. - Train simple machine learning models. The course includes both lectures and hands-on practical sessions, allowing students to apply their newly acquired skills in real-world scenarios."
+  },
+  {
+    "objectID": "teaching/HS241684-intro2python/index.html#links",
+    "href": "teaching/HS241684-intro2python/index.html#links",
+    "title": "HS251684 Introduction to Python for Health Sciences",
+    "section": "Links",
+    "text": "Links\nVorlesungsverzeichnis: https://portal.unilu.ch/details?code=HS251684 Moodle: [https://elearning.hsm-unilu.ch/course/view.php?id=807](https://elearning.hsm-unilu.ch/course/view.php?id=807)"
+  },
+  {
     "objectID": "research/uncertainty/index.html",
     "href": "research/uncertainty/index.html",
     "title": "Robustness, Safety and Uncertainty",
@@ -866,5 +894,47 @@
     "title": "Meta-Learning and Generalization Across Tasks",
     "section": "Related Publications",
     "text": "Related Publications\n\n\n    \n      \n      \n    \n\n\n    \n    \n    \n        \n            \n\n                \n                    \n                    \n                    \n\n                \n      \n\n            \n        \n        \n            \n            Unsupervised Anomaly Detection in Medical Imaging using Aggregated Normative Diffusion\n            \n            \n                \n                \n                    Alexander Frotscher, Jaivardhan Kapoor, Thomas Wolfers, Christian F. Baumgartner \n                \n                \n                \n                    \n                        Medical Image Analysis, 103895 (2025)\n                        \n                        \n                        \n                        \n                        \n                        \n                \n                    \n                    \n                    \n            \n \n        \n        \n\n            \n            \n\n                    \n                    journal URL \n                    \n                \n                    \n  \n              \n            \n\n                    \n                    preprint URL \n                    \n                \n                    \n\n        \n    \n    \n    \n    \n    \n        \n            \n\n                \n                    \n                    \n                    \n\n                \n      \n\n            \n        \n        \n            \n            Deep Unsupervised Anomaly Detection in Brain Imaging: Large-Scale Benchmarking and Bias Analysis\n            \n            \n                \n                \n                    Alexander Frotscher, Christian F. Baumgartner, Thomas Wolfers \n                \n                \n                \n                    \n                        arXiv preprint arXiv:2512.01534 (2025)\n                        \n                        \n                        \n                        \n                        \n                        \n                \n                    \n                    \n                    \n            \n \n        \n        \n\n            \n  \n              \n            \n\n                    \n                    preprint URL \n                    \n                \n                    \n\n        \n    \n    \n    \n    \n    \n        \n            \n\n                \n                    \n                    \n                    \n\n                \n      \n\n            \n        \n        \n            \n            A comprehensive and easy-to-use multi-domain multi-task medical imaging meta-dataset\n            \n            \n                \n                \n                    Stefano Woerner, Arthur Jaques, Christian F. Baumgartner \n                \n                \n                \n                    \n                        Scientific Data, 12, 666 (2025)\n                        \n                        \n                        \n                        \n                        \n                        \n                \n                    \n                    \n                    \n            \n \n        \n        \n\n            \n            \n\n                    \n                    journal URL \n                    \n                \n                    \n  \n              \n            \n\n                    \n                    preprint URL \n                    \n                \n                    \n\n        \n    \n    \n    \n    \n    \n        \n            \n\n                \n                    \n\n                \n      \n\n            \n        \n        \n            \n            Strategies for Meta-Learning with Diverse Tasks\n            \n            \n                \n                \n                    Stefano Woerner, Christian F. Baumgartner \n                \n                \n                \n                    \n                        Medical Imaging with Deep Learning (short paper) (2022)\n                        \n                        \n                        \n                        \n                        \n                        \n                \n                    \n                    \n                    \n            \n \n        \n        \n\n            \n            \n\n                    \n                    journal URL \n                    \n                \n                    \n  \n              \n\n        \n    \n    \n    \n    \n\nNo matching items"
+  },
+  {
+    "objectID": "teaching/FS241638-intro2ML/index.html#semester",
+    "href": "teaching/FS241638-intro2ML/index.html#semester",
+    "title": "FS241638 Introduction to Machine Learning for Health Science",
+    "section": "Semester",
+    "text": "Semester\nFS24"
+  },
+  {
+    "objectID": "teaching/FS241638-intro2ML/index.html#description",
+    "href": "teaching/FS241638-intro2ML/index.html#description",
+    "title": "FS241638 Introduction to Machine Learning for Health Science",
+    "section": "Description",
+    "text": "Description\nMachine learning (ML) research is moving at a very rapid pace. Many of the recent developments in the automated analysis of images, text, as well as other data modalities has the potential to substantially reform healthcare. In this environment independently reading academic research papers, as well as a basic understanding of modern ML techniques are crucial. In this seminar, students will learn to read, understand, and present research paper on the topic of ML for healthcare. Each two hour session will see the presentation of some background by the instructor, as well as a student presentation on a applied ML for healthcare research paper, followed by a group discussion. Throughout, the semester we will go from simple applications of regression models, to more advanced techniques based on neural networks. Using the research papers as a red thread, we will see different medical data types (tabular data, text data, image data, time-series data), different modern ML tools (e.g. CNNs, Transformers, CLIP models) as well as different application areas of ML for health (data generation, risk stratification, decision support, workflow support, medical discovery)."
+  },
+  {
+    "objectID": "teaching/FS241638-intro2ML/index.html#links",
+    "href": "teaching/FS241638-intro2ML/index.html#links",
+    "title": "FS241638 Introduction to Machine Learning for Health Science",
+    "section": "Links",
+    "text": "Links\nVorlesungsverzeichnis: https://portal.unilu.ch/details?code=FS241638 Moodle: https://elearning.hsm-unilu.ch/course/view.php?id=735"
+  },
+  {
+    "objectID": "teaching/HS251113-intro2python/index.html#semester",
+    "href": "teaching/HS251113-intro2python/index.html#semester",
+    "title": "HS251113 Introduction to Python for Health Sciences",
+    "section": "Semester",
+    "text": "Semester\nHS25"
+  },
+  {
+    "objectID": "teaching/HS251113-intro2python/index.html#description",
+    "href": "teaching/HS251113-intro2python/index.html#description",
+    "title": "HS251113 Introduction to Python for Health Sciences",
+    "section": "Description",
+    "text": "Description\nPython is a crucial programming language in the fields of data analysis and machine learning. It is an essential tool for anyone aspiring to work with cutting-edge machine learning and data science technologies. In this course, students will learn to: - Set up Python on their personal computers. - Understand and use basic control structures and data types in Python. - Utilize key Python libraries for data analysis and visualization. - Train simple machine learning models. The course includes both lectures and hands-on practical sessions, allowing students to apply their newly acquired skills in real-world scenarios."
+  },
+  {
+    "objectID": "teaching/HS251113-intro2python/index.html#links",
+    "href": "teaching/HS251113-intro2python/index.html#links",
+    "title": "HS251113 Introduction to Python for Health Sciences",
+    "section": "Links",
+    "text": "Links\nVorlesungsverzeichnis: https://portal.unilu.ch/details?code=HS251113  Moodle: https://elearning.hsm-unilu.ch/course/view.php?id=936"
   }
 ]
