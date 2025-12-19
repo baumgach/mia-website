@@ -8,8 +8,8 @@ project:
 
 website:
   title: "Medical AI Lab"
-  site-url: "https://baumgach.github.io/mia-website"
-  repo-url: "https://github.com/baumgach/mia-website"
+  site-url: "https://baumgach.github.io/med-AI-website"
+  repo-url: "https://github.com/baumgach/med-AI-website"
   favicon: images/favicon.png
   # google-analytics: "UA-177339812-1"
 
@@ -22,7 +22,7 @@ website:
       [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/) 
     right:
       - icon: github
-        href: https://github.com/baumgach/mia-website
+        href: https://github.com/baumgach/med-AI-website
   
   navbar:
     search: true
