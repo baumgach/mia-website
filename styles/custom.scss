@@ -172,7 +172,7 @@ div.gradient-text {
 .welcome {
   max-width: 1000px;
   margin: 0 auto;
-  margin-bottom: 1em; 
+  margin-bottom: 0em; 
   box-sizing: border-box;
   height: auto;
   display: flex;
@@ -189,7 +189,7 @@ div.gradient-text {
   margin-left: 1rem;
   margin-right: 1rem;
   margin-top: 1.5rem;
-  margin-bottom: 1.5rem;
+  margin-bottom: 1.0rem;
   // font-weight: bold;
   font-size: medium;
 }
