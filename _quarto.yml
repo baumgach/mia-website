@@ -12,7 +12,7 @@ website:
   repo-url: "https://github.com/baumgach/med-AI-website"
   favicon: images/favicon.png
   description: "Research group at the University of Lucerne working on interpretable and uncertainty-aware AI for medical imaging and healthcare."
-  # google-analytics: "UA-177339812-1"
+  google-analytics: "G-RYHMRSLGSM"
 
   back-to-top-navigation: true
   page-navigation: false
