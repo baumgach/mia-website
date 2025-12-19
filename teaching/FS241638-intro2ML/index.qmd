@@ -1,6 +1,7 @@
 ---
 title: "FS241638 Introduction to Machine Learning for Health Science"
 semester: 'FS24'
+order: 1
 format:
   html:
     title-block-style: none
