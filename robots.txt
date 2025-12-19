@@ -1,1 +1,1 @@
-Sitemap: https://baumgach.github.io/mia-website/sitemap.xml
+Sitemap: https://baumgach.github.io/med-AI-website/sitemap.xml
