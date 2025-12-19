@@ -1,0 +1,27 @@
+---
+title: "Keynote at MedEurIPS"
+date: '2025-12-08'
+description: "Christian gave a keynote at the MedEurIPS workshop."
+image: featured.jpg
+lightbox: true
+---
+
+Christian visited the first ever EurIPS conference in Copenhagen (1.12. - 8-12.2025) and was invited as a keynote speaker for the MedEurIPS workshop. He was talking about recent work by Susu Sun on [concept-based explanations for histopathology diagnosis](https://arxiv.org/abs/2503.08384), and Paul Fischer on [uncertainty-guided MR acquisitions](https://arxiv.org/abs/2508.14952).
+
+The slides can be found [here](files/2025-12-08-Med-EurIPS.pdf). 
+
+## Images
+
+::: {layout-ncol=5}
+
+![](gallery/img1.jpg){alt="Image 1"}
+
+![](gallery/img2.jpg){alt="Image 2"}
+
+![](gallery/img3.jpg){alt="Image 3"}
+
+![](gallery/img4.jpg){alt="Image 4"}
+
+![](gallery/img5.jpg){alt="Image 5"}
+
+:::

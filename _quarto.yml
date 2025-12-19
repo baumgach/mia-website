@@ -38,6 +38,7 @@ website:
       - href: publications/index.qmd
       - href: jobs/index.qmd
       - href: teaching/index.qmd
+      - href: news/index.qmd
       - href: contact.qmd
         text: Contact
 
