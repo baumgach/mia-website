@@ -7,7 +7,7 @@ listing:
   contents: news/*/*.qmd       # Directory where news items are located
   sort: "date desc"    # Show newest items first
   type: default        # Choose: default, grid, or table
-  max-items: 6         # Limits the display to only the 3 most recent items
+  max-items: 3         # Limits the display to only the 3 most recent items
   sort-ui: false
   filter-ui: false
   fields: [date, title, description]
