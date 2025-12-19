@@ -1,7 +1,7 @@
 ---
-title: "4 Papers presented at MICCAI 2025"
+title: "We travelled to MICCAI 2025"
 date: '2025-09-30'
-description: "At the end of September 2025, we travelled to Daejeon to present our work at MICCAI."
+description: "We travelled to Daejeon, South Korea, to present 3 MICCAI main conference papers and a workshop paper."
 image: featured.jpg
 lightbox: true
 ---
