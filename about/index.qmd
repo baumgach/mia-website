@@ -14,7 +14,7 @@ Although AI is widely used in areas such as voice assistance, content moderation
 
 To address this gap between machine learning and clinical practice, our group focuses on three main research directions: uncertainty quantification, interpretability, and methods that generalize across tasks.
 
-![Alt text](bowling.jpg)
+![Photo from a group trip to the bowling alley.](bowling.jpg)
 
 ## Relationship to Tübingen
 

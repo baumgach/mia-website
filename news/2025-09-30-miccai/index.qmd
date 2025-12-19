@@ -1,0 +1,40 @@
+---
+title: "4 Papers presented at MICCAI 2025"
+date: '2025-09-30'
+description: "At the end of September 2025, we travelled to Daejeon to present our work at MICCAI."
+image: featured.jpg
+lightbox: true
+---
+
+This year, we presented the following papers at MICCAI.
+
+Main conference papers:
+
+- *[Prototype-Based Multiple Instance Learning for Gigapixel Whole Slide Image Classification](https://arxiv.org/abs/2503.08384) by Susu Sun*. Susu developed an inherently interpretable MIL classifier for histopathology images that operates on concepts automatically discovered using a sparse autoencoder.  
+- *[Mind the Detail: Uncovering Clinically Relevant Image Details in Accelerated MRI with Semantically Diverse Reconstructions](https://arxiv.org/abs/2507.00670) by Jan Nikolas Morshuis*. Nikolas developed a method based on adversarial perturbations that enables MR reconstruction techniques to generate semantically diverse reconstructions, helping to reveal rare pathologies that might otherwise be missed.  
+- *[Subgroup Performance Analysis in Hidden Stratifications](https://arxiv.org/abs/2503.10382) by Alceu Bissoto and Lisa Koch from the [MLM Lab in Bern](https://www.mlm-lab.ch/)*. In this joint work, led by our colleagues at the University of Bern, we investigated whether subgroup discovery can serve as a tool for performance validation and monitoring in deep learning based medical diagnosis systems.  
+
+[UNSURE workshop](https://unsuremiccai.github.io/) paper:  
+
+- *[Is Uncertainty Quantification a Viable Alternative to Learned Deferral?](https://arxiv.org/abs/2508.02319) by Anna M. Wundram*. In this paper, Anna investigated whether uncertainty quantification methods can be used to effectively defer medical decisions to human experts in both in-domain and out-of-domain settings.  
+
+Outside of the conference, we also got to enjoy Korean culture including amazing Korean food. It was also a very special MICCAI for me, because I got to travel to Korea together with my family. 
+
+
+## Images
+
+::: { .gallery}
+
+![](gallery/01.jpg){alt="Image 1"}
+
+![](gallery/02.jpg){alt="Image 2"}
+
+![](gallery/03.jpg){alt="Image 3"}
+
+![](gallery/04.jpg){alt="Image 4"}
+
+![](gallery/05.jpg){alt="Image 5"}
+
+![](gallery/06.jpg){alt="Image 6"}
+
+:::

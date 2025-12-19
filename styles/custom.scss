@@ -354,11 +354,92 @@ div.gradient-text {
 }
 
 .thumbnail img.thumbnail-image {
-  max-height: 300px !important;
+  max-height: 200px !important;
   max-width: 100% !important;
   width: auto !important;
   height: auto !important;
   object-fit: contain !important;
   margin-left: auto !important;
   display: block !important;
+  margin-bottom: .6em;
+}
+
+
+
+/* --- Code for Gallery ------------------------------ */
+
+.gallery {
+  /* Responsive masonry-like layout without JS */
+  column-count: 3;
+  column-gap: 1rem;
+  margin: 1rem 0 1.5rem 0;
+
+  /* Mobile */
+  @media (max-width: 576px) {
+    column-count: 1;
+    column-gap: 0.75rem;
+  }
+
+  /* Tablet */
+  @media (min-width: 577px) and (max-width: 992px) {
+    column-count: 2;
+  }
+
+  /* Make each item stay intact within a column */
+  a,
+  img,
+  figure {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  /* Spacing between tiles */
+  a {
+    display: inline-block;
+    width: 100%;
+    margin: 0 0 1rem 0;
+    text-decoration: none;
+  }
+
+  /* Tile styling */
+  img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 12px;
+    box-shadow: 0 10px 24px rgba(0, 0, 0, 0.12);
+    transition: transform 160ms ease, box-shadow 160ms ease, filter 160ms ease;
+    background: #fff; /* helps with transparent PNG edges */
+  }
+
+  /* Hover affordance (desktop) */
+  a:hover img,
+  a:focus img {
+    transform: translateY(-2px);
+    box-shadow: 0 16px 34px rgba(0, 0, 0, 0.18);
+    filter: saturate(1.03);
+  }
+
+  /* Keyboard accessibility */
+  a:focus {
+    outline: none;
+  }
+  a:focus-visible img {
+    outline: 3px solid rgba(75, 46, 131, 0.45); /* matches your $primary vibe */
+    outline-offset: 3px;
+  }
+}
+
+/* Optional: tighter “photo wall” variant */
+.gallery--tight {
+  column-gap: 0.6rem;
+
+  a {
+    margin-bottom: 0.6rem;
+  }
+
+  img {
+    border-radius: 10px;
+    box-shadow: 0 8px 18px rgba(0, 0, 0, 0.10);
+  }
 }

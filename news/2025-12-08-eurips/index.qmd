@@ -1,7 +1,7 @@
 ---
 title: "Keynote at MedEurIPS"
 date: '2025-12-08'
-description: "Christian gave a keynote at the MedEurIPS workshop."
+description: "Christian travelled to EurIPS and gave a keynote at the MedEurIPS workshop."
 image: featured.jpg
 lightbox: true
 ---
@@ -12,7 +12,7 @@ The slides can be found [here](files/2025-12-08-Med-EurIPS.pdf).
 
 ## Images
 
-::: {layout-ncol=5}
+::: {.gallery}
 
 ![](gallery/img1.jpg){alt="Image 1"}
 
