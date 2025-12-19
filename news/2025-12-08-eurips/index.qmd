@@ -22,6 +22,4 @@ The slides can be found [here](files/2025-12-08-Med-EurIPS.pdf).
 
 ![](gallery/img4.jpg){alt="Image 4"}
 
-![](gallery/img5.jpg){alt="Image 5"}
-
 :::
