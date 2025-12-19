@@ -7,6 +7,7 @@ categories: []
 url_source: "https://doi.org/10.1007/978-3-032-05185-1_57"
 url_preprint: "https://arxiv.org/abs/2503.10382"
 journ: "Lecture Notes in Computer Science"
+conference: "MICCAI 2025"
 issue: ""
 page: "594-603"
 year: 2025
