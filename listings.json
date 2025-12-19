@@ -92,6 +92,14 @@
     ]
   },
   {
+    "listing": "/index.html",
+    "items": [
+      "/news/2025-12-08-eurips/index.html",
+      "/news/2025-09-30-miccai/index.html",
+      "/news/2025-09-20-new-website/index.html"
+    ]
+  },
+  {
     "listing": "/people/baumgartner-christian/index.html",
     "items": [
       "/publications/2025_083_Alexander Frotscher_unsupervised_anomaly/index.html",

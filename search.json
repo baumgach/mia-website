@@ -452,19 +452,19 @@
     "href": "news/index.html",
     "title": "News",
     "section": "",
-    "text": "Keynote at MedEurIPS\n\n\nChristian travelled to EurIPS and gave a keynote at the MedEurIPS workshop.\n\n\n\n\n\nDec 2025\n\n\n\n\n\n\n\n\n\n\n\n\n4 Papers presented at MICCAI 2025\n\n\nAt the end of September 2025, we travelled to Daejeon to present our work at MICCAI.\n\n\n\n\n\nSep 2025\n\n\n\n\n\n\n\n\n\n\n\n\nWe have a new website!\n\n\nStarting today, this is the place for all information related to our research group.\n\n\n\n\n\nSep 2025\n\n\n\n\n\nNo matching items\n Back to top"
+    "text": "Keynote at MedEurIPS\n\n\nChristian travelled to EurIPS and gave a keynote at the MedEurIPS workshop.\n\n\n\n\n\nDec 2025\n\n\n\n\n\n\n\n\n\n\n\n\nWe travelled to MICCAI 2025\n\n\nWe travelled to Daejeon, South Korea, to present 3 MICCAI main conference papers and a workshop paper.\n\n\n\n\n\nSep 2025\n\n\n\n\n\n\n\n\n\n\n\n\nWe have a new website!\n\n\nStarting today, this is the place for all information related to our research group.\n\n\n\n\n\nSep 2025\n\n\n\n\n\nNo matching items\n Back to top"
   },
   {
     "objectID": "news/2025-09-30-miccai/index.html",
     "href": "news/2025-09-30-miccai/index.html",
-    "title": "4 Papers presented at MICCAI 2025",
+    "title": "We travelled to MICCAI 2025",
     "section": "",
     "text": "This year, we presented the following papers at MICCAI.\nMain conference papers:\nUNSURE workshop paper:\nOutside of the conference, we also got to enjoy Korean culture including amazing Korean food. It was also a very special MICCAI for me, because I got to travel to Korea together with my family."
   },
   {
     "objectID": "news/2025-09-30-miccai/index.html#images",
     "href": "news/2025-09-30-miccai/index.html#images",
-    "title": "4 Papers presented at MICCAI 2025",
+    "title": "We travelled to MICCAI 2025",
     "section": "Images",
     "text": "Images"
   },
@@ -480,7 +480,14 @@
     "href": "index.html",
     "title": "Lucerne Medical AI Lab",
     "section": "",
-    "text": "Welcome to the Lucerne Medical AI Lab\n\n\nBuilding safe and trustworthy AI for healthcare\n\n\n\n\n\n\n\nWe are a research group working on machine learning for healthcare, with the goal of enabling safer and more reliable clinical decision-making. Our work focuses on developing interpretable and uncertainty-aware learning methods that are robust to heterogeneous data and capable of generalizing across tasks and settings. Our research is informed by close collaboration with clinicians and domain experts to ensure that our methodological advances can ultimately translate into real clinical workflows.\n\n\n\n\n\n\n\n\n Back to top"
+    "text": "Welcome to the Lucerne Medical AI Lab\n\n\nBuilding safe and trustworthy AI for healthcare"
+  },
+  {
+    "objectID": "index.html#latest-news",
+    "href": "index.html#latest-news",
+    "title": "Lucerne Medical AI Lab",
+    "section": "Latest news",
+    "text": "Latest news"
   },
   {
     "objectID": "about/index.html",
