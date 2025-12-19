@@ -6,15 +6,17 @@ It was forked from the Masiello Group Website: https://github.com/MasielloGroup/
 
 ## Carry-over notes from original repo
 
+Note CB: I have not tested those. 
+
 ### Adding publications
 use `just newpub` for creation of new directory and input prompts for new record.
 
 ### Adding new people
 use `just newperson` for creation of new directory and input prompts for new record.
 
-### Deployment 
+## Deployment 
 
-- use long-running `updates` branch for deploy previews
-- `quarto render` locally and include `_site` in version control
-- GitHub action `scp-to-server.yml` deploys to server
+- Use `quarto render` and `quarto preview` to test the site locally. 
+- Use `quarto publish gh-pages` to publish the website.
+- Under the repo settings in the section "Pages", the Branch needs to be set to `gh-pages` and the folder needs to be `/ (root)`.
 
