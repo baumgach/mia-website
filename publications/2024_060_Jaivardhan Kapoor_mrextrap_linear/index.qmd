@@ -6,7 +6,7 @@ publication: "_Medical Imaging with Deep Learning_, (2024)"
 categories: []
 url_source: "https://openreview.net/forum?id=lmAqqL5wL8"
 url_preprint: ""
-journ: "Medical Imaging with Deep Learning"
+journ: "Medical Imaging with Deep Learning (short paper)"
 issue: ""
 page: ""
 year: 2024
