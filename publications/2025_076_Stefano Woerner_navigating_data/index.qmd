@@ -1,7 +1,7 @@
 ---
 title: "Navigating Data Scarcity Using Foundation Models: A Benchmark of Few-Shot and Zero-Shot Learning Approaches in Medical Imaging"
 author: ["Stefano Woerner", "Christian F. Baumgartner"]
-publication: "_Lecture Notes in Computer Science_, 30-39 (2025)"
+publication: "_Lecture Notes in Computer Science_, 30-39 (2024)"
 
 categories: [task-robusntess]
 url_source: "https://doi.org/10.1007/978-3-031-73471-7_4"
@@ -10,7 +10,7 @@ journ: "Lecture Notes in Computer Science"
 conference: "MedAGI workshop @ MICCAI 2024"
 issue: ""
 page: "30-39"
-year: 2025
+year: 2024
 pub_number: 76
 image: "featured.png"
 ---
